@@ -10,6 +10,7 @@ public class TestaAbstractionDemo1 {
 		d.eat();
 		d.sound();
 		d.walk();
+		d.sleep();
 		System.out.println("                             ");
 		System.out.println("                             ");
 
@@ -19,6 +20,7 @@ public class TestaAbstractionDemo1 {
 		c.eat();
 		c.sound();
 		c.walk();
+		c.sleep();
 		System.out.println("                             ");
 		System.out.println("                             ");
 
@@ -28,6 +30,7 @@ public class TestaAbstractionDemo1 {
 		m.eat();
 		m.sound();
 		m.walk();
+		m.sleep();
 		System.out.println("                             ");
 		System.out.println("                             ");
 

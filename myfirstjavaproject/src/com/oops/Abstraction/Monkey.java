@@ -16,6 +16,12 @@ public class Monkey implements Animal{
 	public void sound() {
 		System.out.println("Monkey can Sound Like Kchhhhchhhch");
 	}
+	
+	@Override
+	public void sleep() {
+		System.out.println("Monkey can sleep");
+	}
+	
 
 
 }
